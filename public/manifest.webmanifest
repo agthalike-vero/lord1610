@@ -1,0 +1,21 @@
+{
+ "name": "我愛1610 至高領主計算機",
+ "short_name": "1610 至高",
+ "start_url": "/",
+ "display": "standalone",
+ "background_color": "#17406D",
+ "theme_color": "#17406D",
+ "icons": [
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any maskable"
+  }
+ ]
+}
