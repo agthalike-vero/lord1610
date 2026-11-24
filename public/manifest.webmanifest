@@ -1,10 +1,10 @@
 {
- "name": "我愛1610 至高領主計算機",
- "short_name": "1610 至高",
+ "name": "我愛1610 豐收慶典計算機",
+ "short_name": "1610 豐收",
  "start_url": "/",
  "display": "standalone",
- "background_color": "#17406D",
- "theme_color": "#17406D",
+ "background_color": "#FBE3CC",
+ "theme_color": "#C2410C",
  "icons": [
   {
    "src": "icon-192.png",
